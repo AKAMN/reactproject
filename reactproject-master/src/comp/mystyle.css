@@ -1,0 +1,43 @@
+
+.center {
+    flex: content;
+  border: 2px solid rgb(126, 126, 245);
+  margin: auto;
+  width: 400px;
+  padding: 10px;
+  background-color: rgb(226, 226, 226);   
+}
+
+.allborder {
+  border: 2px solid rgb(126, 126, 245);
+}
+
+.makeh1center {
+  text-align: center;
+}
+
+
+#inp {
+    margin-left: 30px;
+    background-color: yellow;
+    width: 1.8in;
+    
+}
+
+select {
+    margin-left: 30px;
+    width: 150px;
+}
+
+#btn{
+    font-weight: bold;
+    border-radius: 5px;
+    height: 0.3in;
+    width: 0.6in;
+    border: 1px solid rgb(126, 126, 245);
+    color: purple;
+    margin-top: 0.2in;
+   
+    margin-bottom: 0.2in;
+    text-align: center;    
+}
